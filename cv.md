@@ -1,4 +1,4 @@
-<img src="IMG_0558_7.jpg" width=250></p>
+<img src="IMG_0558_7.jpg" width=250>
 
 # Korotkevich Ruslan
 
@@ -10,7 +10,7 @@
 > ADDITIONAL EDUCATION
 
 * 2021 Basic software testing courses
-(certificate)
+[сertificate](https://drive.google.com/file/d/1pt_mkP4jgGbZgPGtPMhrmav5Rw9m87gZ/view?usp=sharing)
 
 > WORK EXPERIENCE
 
