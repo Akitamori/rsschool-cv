@@ -1,0 +1,1 @@
+https://akitamori.github.io/rsschool-cv/cv
